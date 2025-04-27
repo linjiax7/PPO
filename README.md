@@ -7,5 +7,5 @@ Improved BLEU and ROUGE scores indicate that the model outperforms the base mode
 
 OpenAI's RLHF Overview:https://openai.com/research/instruction-following
 Hugging Face TRL (RLHF Library):https://huggingface.co/docs/trl/index
-Qwen Model from Alibaba: https://huggingface.co/Qwen
+Qwen Model from Alibaba: https://huggingface.co/Qwen 
 Proximal Policy Optimization (PPO) Paper: https://arxiv.org/abs/1707.06347
